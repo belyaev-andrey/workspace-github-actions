@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/../test-github-workflow/pom.xml" />
+        <option value="$PROJECT_DIR$/../actions-demo/pom.xml" />
       </list>
     </option>
   </component>
