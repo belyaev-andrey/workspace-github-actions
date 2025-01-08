@@ -11,12 +11,33 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="initializr" target="1.5" />
+      <module name="initializr-actuator" target="17" />
+      <module name="initializr-bom" target="1.5" />
+      <module name="initializr-docs" target="17" />
+      <module name="initializr-generator" target="17" />
+      <module name="initializr-generator-spring" target="17" />
+      <module name="initializr-generator-test" target="17" />
+      <module name="initializr-metadata" target="17" />
+      <module name="initializr-parent" target="1.5" />
+      <module name="initializr-service-sample" target="17" />
+      <module name="initializr-version-resolver" target="17" />
+      <module name="initializr-web" target="17" />
       <module name="opentofu-demo" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="actions-demo" options="-parameters" />
+      <module name="initializr-actuator" options="-parameters" />
+      <module name="initializr-docs" options="-parameters" />
+      <module name="initializr-generator" options="-parameters" />
+      <module name="initializr-generator-spring" options="-parameters" />
+      <module name="initializr-generator-test" options="-parameters" />
+      <module name="initializr-metadata" options="-parameters" />
+      <module name="initializr-service-sample" options="-parameters" />
+      <module name="initializr-version-resolver" options="-parameters" />
+      <module name="initializr-web" options="-parameters" />
       <module name="opentofu-demo" options="-parameters" />
     </option>
   </component>
