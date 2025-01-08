@@ -10,7 +10,9 @@
     <project name="test-action-js" path="$PROJECT_DIR$/../test-action-js">
       <vcs id="Git" remoteUrl="https://github.com/ij-vcs-team/test-action-js.git" />
     </project>
-    <project name="spring-web-basic" path="$PROJECT_DIR$/../spring-web-basic" />
+    <project name="spring-web-basic" path="$PROJECT_DIR$/../spring-web-basic">
+      <vcs id="Git" remoteUrl="https://ghe.ij-vcs.aws.intellij.net/JB-Organization/spring-web-basic.git" />
+    </project>
     <option name="workspace" value="true" />
   </component>
 </project>
