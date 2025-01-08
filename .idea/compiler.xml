@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="test-github-workflow" />
         <module name="actions-demo" />
+        <module name="spring-web-basic" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

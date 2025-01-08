@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/../test-github-workflow/pom.xml" />
         <option value="$PROJECT_DIR$/../actions-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-web-basic/pom.xml" />
       </list>
     </option>
   </component>
